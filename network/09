@@ -1,0 +1,1 @@
+koffi@koffi-pc:~$ nslookup 42.frServer:		127.0.1.1Address:	127.0.1.1#53Non-authoritative answer:Name:	42.frAddress: 163.172.250.11Name:	42.frAddress: 163.172.250.12Sur le domaine 42.fr on a deux addresses
